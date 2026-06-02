@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+transformers
+scikit-learn
+tqdm
+pdf2image
+pytesseract
+rapidfuzz
+Pillow
