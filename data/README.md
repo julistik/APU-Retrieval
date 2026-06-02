@@ -17,6 +17,9 @@
 ### `dict_for_gpt.json`
 Версия словаря, подготовленная для использования в промтах ChatGPT.
 
+### `test_data_for_gpt.json`
+Тестовая выборка в формате, подготовленном для автоматической разметки с помощью ChatGPT.
+
 ## Связь файлов
 
 ```text
@@ -29,3 +32,5 @@ dataset_min4.json
         └──► test_data.json
 
 DICT_NEW.json ───► dict_for_gpt.json
+
+test_data.json ──► test_data_for_gpt.json
